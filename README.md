@@ -1,2 +1,1 @@
-# back-javascript
-#Back Javascript SDK
+# Back Javascript SDK
